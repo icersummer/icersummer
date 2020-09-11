@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some ideas to get started:
+
+- 🔭 I’m currently working on TopSoft CloudComputing.
+- 🌱 I’m currently learning Kubernetes/K8S/Docker/MicroService/OpenStack.
+- 👯 I’m looking to collaborate on OpenSource projects.
+- 🤔 I’m looking for help with OpenSource projects.
+- 💬 Ask me about Kubernetes/K8S/Docker/MicroService/OpenStack.
+- 📫 How to reach me: https://coolshell.me
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
