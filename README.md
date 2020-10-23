@@ -28,3 +28,12 @@ Here are some ideas to get started:
 
 
 [![icersummer's github stats](https://github-readme-stats.vercel.app/api?username=icersummer)](https://github.com/icersummer)
+
+New Line to Describe Myself:
+
+<a href="https://coolshell.me">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=icersummer&show_icons=true" />
+</a>
+<a href="https://coolshell.me">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icersummer&hide=html" />
+</a>
